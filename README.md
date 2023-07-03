@@ -10,7 +10,7 @@ We’ve created an ETL pipeline to built a structured schema from a list of JSON
 
 * Notebook:
   ETL Pipeline Ejercicio.ipynb
-    -Jupyter notebook with all the comments and algorithms used in this forecast.
+    -Jupyter notebook with all the comments and algorithms used in this example of ETL pipeline.
 * Data:
     -tmdb.py
     -tmdb_datetimes.csv
